@@ -8,6 +8,8 @@ demo add text
 new text - ed
 update again
 
+Text for new branch
+
 Edited file
 
 Thank you
