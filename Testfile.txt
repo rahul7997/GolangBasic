@@ -4,3 +4,5 @@ Welcome to my first text file.
 
 text1
 text2
+demo add text
+new text
