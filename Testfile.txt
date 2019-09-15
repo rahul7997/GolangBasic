@@ -3,10 +3,13 @@
 Welcome to my first text file.
 
 text1
-text2
+text2 - text for pull
 demo add text
 new text - ed
 update again
+
+Text for new branch
+couldhave branch text
 
 Edited file
 
