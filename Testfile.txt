@@ -3,7 +3,7 @@
 Welcome to my first text file.
 
 text1
-text2
+text2 - text for pull
 demo add text
 new text - ed
 update again
