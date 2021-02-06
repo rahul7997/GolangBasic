@@ -9,3 +9,6 @@ adding line for checking pull and push branching
 added line in newbranch
 
 added second in newbranch
+
+line to check pull and push --no-ff
+
