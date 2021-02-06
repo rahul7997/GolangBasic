@@ -14,4 +14,8 @@ line to check pull and push --no-ff
 line added while online
 
 line added while offline
+<<<<<<< HEAD
 second line while offline
+=======
+second line while online
+>>>>>>> 0c3c411fe93125bea58d743836f9b90ea506f9c4
