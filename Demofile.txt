@@ -7,3 +7,5 @@ test demo1
 adding line for checking pull and push branching
 
 added line in newbranch
+
+added second in newbranch
