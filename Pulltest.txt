@@ -1,5 +1,6 @@
 file created to check pull requests
 firstline online
+<<<<<<< HEAD
 
 second line offline
 
@@ -10,3 +11,6 @@ second line offline
 
 
 third line offline
+=======
+firstline online changed
+>>>>>>> 4fa5acd3b8118b371e791b967dfffe419e6f8c8c
