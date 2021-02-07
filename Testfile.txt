@@ -1,19 +1,1 @@
-
-
 Welcome to my first text file.
-Modified testfile
-
-text1
-text2 - text for pull
-demo add text
-new text - ed
-update again
-
-Text for new branch
-couldhave branch text
-
-Edited file by Rahul Sharma on 1Feb21
-
-Thank you
-regards
-final
