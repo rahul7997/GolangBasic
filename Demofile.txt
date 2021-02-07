@@ -1,2 +1,7 @@
 rewriting demofile in newbranch after mergeconflicts
+<<<<<<< HEAD
 adding this line via branch2
+=======
+
+adding line via branch 2 after 1 commit in aster branch
+>>>>>>> branch2
