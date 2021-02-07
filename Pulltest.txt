@@ -1,5 +1,9 @@
 file created to check pull requests
 clearing Pulltest
 
+<<<<<<< HEAD
 change in newbranch
 change done in branch3 online
+=======
+change in branch3 online
+>>>>>>> 0e07022bf625c0f62e805f9dff319245ddfa5550
