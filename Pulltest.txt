@@ -1,22 +1,2 @@
 file created to check pull requests
-firstline online
-<<<<<<< HEAD
-
-second line offline
-
-
-
-
-
-
-
-third line offline
-=======
-firstline online changed
->>>>>>> 4fa5acd3b8118b371e791b967dfffe419e6f8c8c
-<<<<<<< HEAD
-4th offline
-=======
-
-4th online
->>>>>>> 1b124735daceee8165b669bb489212cef97e440d
+clearing Pulltest
