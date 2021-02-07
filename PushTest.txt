@@ -1,7 +1,0 @@
-Creating Pushtest.txt
-
-resolving merge conflicts after pull request into newbranch
-c7a51e35ec808d60cc9b2ca1f35e4eebff0583ff
-
-editing to push in branch3
-
