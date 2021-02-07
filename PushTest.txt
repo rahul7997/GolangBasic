@@ -1,4 +1,2 @@
 Creating Pushtest.txt
 
-first line added
-second line added
