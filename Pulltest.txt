@@ -4,6 +4,7 @@ clearing Pulltest
 <<<<<<< HEAD
 change in newbranch
 change done in branch3 online
+<<<<<<< HEAD
 =======
 change in branch3 online
 <<<<<<< HEAD
@@ -11,3 +12,6 @@ change in branch3 online
 =======
 ad  aaaaaaaa
 >>>>>>> 05d03a1e3ba81270f3aa0f84066ce25d21e9ed7a
+=======
+bbbbbbbbbbbbb2222222222
+>>>>>>> 2e308e4c02af671de0909e255fd0f6c8021483f2
